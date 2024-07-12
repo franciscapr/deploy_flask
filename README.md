@@ -31,12 +31,12 @@ Este proyecto es una aplicación web que permite a los usuarios registrarse, ini
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/tu-usuario/tu-repositorio.git(https://github.com/franciscapr/deploy_flask.git)
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd tu-repositorio
+    cd tu-repo
     ```
 
 3. Crea y activa un entorno virtual:
